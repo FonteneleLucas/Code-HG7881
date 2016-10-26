@@ -5,6 +5,6 @@ The alteration of direction of rotation, is defined by value integer inserted in
 With function "go(int velocity_left, int velocity_right)" simplified.
 
 Codigo Arduino para o controle do modulo (ponte H) HG7881. 
-Útil para seguidor de linda. 
+Útil para seguidor de linha. 
 A alteração do sentido de rotação, é definida pelo valor inteiro inserido no paramentro da função.
 Com a função "andar(int velocidade esquerda, int velocidade direita)" simplificada.
