@@ -1,3 +1,4 @@
+//Writed by Lucas Fontenele -- lucasfind@hotmail.com
 
 //pins motors = direction_A-1A[0], speed_A-1B[1], direction_B-1A[2], speed_B-1B[3];
 int pinMotors[] = {8, 9, 10, 11};
